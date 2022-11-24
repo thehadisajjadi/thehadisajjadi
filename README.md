@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thehadisajjadi
 - 👀 I’m interested in Social Science and Computer Science
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Python
 - 💞️ Learning is therapy I THINK.
 - 📫 Feel free to contact me via the.hadi.sajjadi@gmail.com
 
